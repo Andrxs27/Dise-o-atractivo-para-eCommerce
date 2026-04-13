@@ -255,7 +255,7 @@ export default function ProductDetail({ onAddToCart }: ProductDetailProps) {
 
               {/* WhatsApp Contact */}
               <a
-                href={`https://wa.me/1234567890?text=Hola,%20estoy%20interesado%20en%20${encodeURIComponent(product.name)}`}
+                href={`https://wa.me/573233965246?text=Hola,%20estoy%20interesado%20en%20${encodeURIComponent(product.name)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-green-600 text-white py-3 rounded-lg hover:bg-green-700 transition-colors font-medium flex items-center justify-center gap-2 mb-8"

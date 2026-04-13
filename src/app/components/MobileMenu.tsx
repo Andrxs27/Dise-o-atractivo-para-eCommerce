@@ -70,7 +70,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                 <h3 className="text-white/60 text-xs uppercase tracking-wider mb-4">Síguenos</h3>
                 <div className="flex gap-3">
                   <a
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/profile.php?id=61557029266525"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-white/10 hover:bg-orange-500 p-3 rounded-lg transition-colors"
@@ -78,7 +78,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                     <Facebook className="w-5 h-5 text-white" />
                   </a>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/tecnologjy/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-white/10 hover:bg-orange-500 p-3 rounded-lg transition-colors"
@@ -86,7 +86,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                     <Instagram className="w-5 h-5 text-white" />
                   </a>
                   <a
-                    href="https://wa.me/1234567890"
+                    href="https://wa.me/573233965246"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-white/10 hover:bg-orange-500 p-3 rounded-lg transition-colors"
@@ -106,7 +106,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
             {/* Footer */}
             <div className="p-6 border-t border-white/10">
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/573233965246"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-orange-500 text-white py-3 rounded-lg hover:bg-orange-600 transition-colors font-medium flex items-center justify-center gap-2"

@@ -82,7 +82,7 @@ function Layout({ children }: { children: React.ReactNode }) {
           <span className="sm:hidden">Envío gratis +$200</span>
           <div className="flex items-center gap-4">
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/573233965246"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors flex items-center gap-1"
@@ -148,7 +148,7 @@ function Layout({ children }: { children: React.ReactNode }) {
               {/* Social Links Desktop */}
               <div className="hidden lg:flex items-center gap-3">
                 <a
-                  href="https://facebook.com/jydigitaltech"
+                  href="https://www.facebook.com/people/Digital-technology-jy-com/61557029266525/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/70 hover:text-white transition-colors"
@@ -156,7 +156,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                   <Facebook className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://instagram.com/jydigitaltech"
+                  href="https://www.instagram.com/tecnologjy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/70 hover:text-white transition-colors"
@@ -164,7 +164,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                   <Instagram className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/573233965246"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/70 hover:text-white transition-colors"
@@ -321,7 +321,7 @@ function Layout({ children }: { children: React.ReactNode }) {
               <h4 className="text-white font-medium mb-4">Síguenos</h4>
               <div className="flex gap-3 mb-4">
                 <a
-                  href="https://facebook.com/jydigitaltech"
+                  href="https://www.facebook.com/people/Digital-technology-jy-com/61557029266525/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-orange-500 p-2 rounded-lg transition-colors"
@@ -329,7 +329,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                   <Facebook className="w-5 h-5 text-white" />
                 </a>
                 <a
-                  href="https://instagram.com/jydigitaltech"
+                  href="https://www.instagram.com/tecnologjy/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-orange-500 p-2 rounded-lg transition-colors"
@@ -337,7 +337,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                   <Instagram className="w-5 h-5 text-white" />
                 </a>
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/573233965246"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-orange-500 p-2 rounded-lg transition-colors"
@@ -353,7 +353,7 @@ function Layout({ children }: { children: React.ReactNode }) {
               </div>
               <p className="text-white/60 text-sm mb-3">Recibe nuestras ofertas</p>
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/573233965246"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-orange-500 text-white px-4 py-2 rounded-lg hover:bg-orange-600 transition-colors text-sm"

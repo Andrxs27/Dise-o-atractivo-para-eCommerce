@@ -266,7 +266,7 @@ export default function Home({ onAddToCart }: HomeProps) {
               Nuestro equipo de expertos está listo para ayudarte a encontrar el equipo perfecto
             </p>
             <motion.a
-              href="https://wa.me/1234567890?text=Hola,%20necesito%20asesoría%20sobre%20productos"
+              href="https://wa.me/573233965246?text=Hola,%20necesito%20asesoría%20sobre%20productos"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
